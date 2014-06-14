@@ -1,3 +1,3 @@
 Array
 =
-Autoresizing array
+Autoresizing templated array
