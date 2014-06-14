@@ -4,5 +4,5 @@ Storehouse
 A program that is modeling storehouse process
 
 Base abstract class Goods provide common interface for Clothers and Food
-We use here NVI pattern 
-Storehouse is a singleton
+1.NVI pattern 
+2.Storehouse is a singleton
