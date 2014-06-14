@@ -1,3 +1,6 @@
+Storehouse
+=
+
 A program that is modeling storehouse process
 
 Base abstract class Goods provide common interface for Clothers and Food
