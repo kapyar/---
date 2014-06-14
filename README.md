@@ -1,4 +1,3 @@
----
-===
-
-my all c++ projects
+My c++ projects
+==
+More details in folders))
