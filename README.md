@@ -26,4 +26,4 @@ KR2013
 Lab_04
 ---
 > Program that built **Convex Set** on `Polygon` that you build by adding
-> 'Point' to it. Program automatically count perimeter and area of this convex set.
+> `Point` to it. Program automatically count perimeter and area of this convex set.
