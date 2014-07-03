@@ -27,3 +27,7 @@ Lab_04
 ---
 > Program that built **Convex Set** on `Polygon` that you build by adding
 > `Point` to it. Program automatically count perimeter and area of this convex set.
+
+Screen
+---
+> PRogram that shows the features of `mutable` parametr in the class. It shows matrix and you can change the element of these matrices.
