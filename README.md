@@ -30,8 +30,14 @@ Lab_04
 
 Screen
 ---
-> Program that shows the features of `mutable` parameter in the class. It shows matrices and you can change the element of >these matrices.
+> Program that shows the features of `mutable` parameter in the class. It shows matrices and you can change the element of these matrices.
 
 String
 ----
 > It is a program that allow you to work with both type of strings: c-string and stl-string. You can copy, concatenate, compare c and stl strings together.
+
+Time
+------
+> Program that shows work with `Time` and `Date` in C++
+
+
