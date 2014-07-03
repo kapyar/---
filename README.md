@@ -30,4 +30,4 @@ Lab_04
 
 Screen
 ---
-> PRogram that shows the features of `mutable` parametr in the class. It shows matrix and you can change the element of these matrices.
+> Program that shows the features of `mutable` parameter in the class. It shows matrices and you can change the element of these matrices.
